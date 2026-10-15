@@ -1,0 +1,46 @@
+supplier_id,supplier_name,contact_person,phone,email,address,rating,status
+SUP001,Apex Pharma Labs,Manager B. Sharma,+91-9962431137,orders@apexpharmalabs.com,"Plot 11, Industrial Estate, Mumbai",4.5,ACTIVE
+SUP002,Bharat Healthcare Bio,Manager C. Sharma,+91-9862969973,orders@bharathealthcarebio.com,"Plot 12, Industrial Estate, Kolkata",3.9,ACTIVE
+SUP003,Cadila Therapeutics,Manager D. Sharma,+91-9829255526,orders@cadilatherapeutics.com,"Plot 13, Industrial Estate, Mumbai",4.9,ACTIVE
+SUP004,Dr Reddy Lifesciences,Manager E. Sharma,+91-9991955279,orders@drreddylifesciences.com,"Plot 14, Industrial Estate, Ahmedabad",3.9,ACTIVE
+SUP005,Emcure Formulations,Manager F. Sharma,+91-9995688460,orders@emcureformulations.com,"Plot 15, Industrial Estate, Chennai",4.7,ACTIVE
+SUP006,Fortis MedEquip Supplies,Manager G. Sharma,+91-9974241409,orders@fortismedequipsupplies.com,"Plot 16, Industrial Estate, Hyderabad",4.2,ACTIVE
+SUP007,Glenmark Generic,Manager H. Sharma,+91-9810411251,orders@glenmarkgeneric.com,"Plot 17, Industrial Estate, Kolkata",4.1,ACTIVE
+SUP008,Himalaya Healthtech,Manager I. Sharma,+91-9980917388,orders@himalayahealthtech.com,"Plot 18, Industrial Estate, Hyderabad",4.4,ACTIVE
+SUP009,Intas Biologicals,Manager J. Sharma,+91-9850472432,orders@intasbiologicals.com,"Plot 19, Industrial Estate, Bengaluru",4.7,ACTIVE
+SUP010,JB Chemicals,Manager K. Sharma,+91-9969835213,orders@jbchemicals.com,"Plot 20, Industrial Estate, Hyderabad",4.4,ACTIVE
+SUP011,Khandelwal BioMed,Manager L. Sharma,+91-9813362387,orders@khandelwalbiomed.com,"Plot 21, Industrial Estate, Pune",4.4,ACTIVE
+SUP012,Lupin Care,Manager M. Sharma,+91-9845593981,orders@lupincare.com,"Plot 22, Industrial Estate, Mumbai",4.6,ACTIVE
+SUP013,Mankind Generics,Manager N. Sharma,+91-9867470157,orders@mankindgenerics.com,"Plot 23, Industrial Estate, Bengaluru",4.0,ACTIVE
+SUP014,Natco Life,Manager O. Sharma,+91-9956205566,orders@natcolife.com,"Plot 24, Industrial Estate, Mumbai",4.1,ACTIVE
+SUP015,Omega Surgical Devices,Manager P. Sharma,+91-9973204059,orders@omegasurgicaldevices.com,"Plot 25, Industrial Estate, Pune",4.3,ACTIVE
+SUP016,Piramal Critical Care,Manager Q. Sharma,+91-9875722828,orders@piramalcriticalcare.com,"Plot 26, Industrial Estate, Bengaluru",3.8,ACTIVE
+SUP017,Quest Diagnostic Solutions,Manager R. Sharma,+91-9879650800,orders@questdiagnosticsolutions.com,"Plot 27, Industrial Estate, Chennai",3.8,ACTIVE
+SUP018,Ranbaxy Healthcare,Manager S. Sharma,+91-9812669503,orders@ranbaxyhealthcare.com,"Plot 28, Industrial Estate, Bengaluru",3.7,ACTIVE
+SUP019,Sun Medical Systems,Manager T. Sharma,+91-9936910433,orders@sunmedicalsystems.com,"Plot 29, Industrial Estate, Ahmedabad",4.5,ACTIVE
+SUP020,Torrent Biologicals,Manager U. Sharma,+91-9894582467,orders@torrentbiologicals.com,"Plot 30, Industrial Estate, Ahmedabad",4.9,AUDIT_PENDING
+SUP021,Unichem Medical,Manager V. Sharma,+91-9978812599,orders@unichemmedical.com,"Plot 31, Industrial Estate, Chennai",3.6,ACTIVE
+SUP022,Viatris BioTech,Manager W. Sharma,+91-9912912593,orders@viatrisbiotech.com,"Plot 32, Industrial Estate, Chennai",4.7,ACTIVE
+SUP023,Wockhardt Pharma,Manager X. Sharma,+91-9834774487,orders@wockhardtpharma.com,"Plot 33, Industrial Estate, Bengaluru",4.4,ACTIVE
+SUP024,Zenith Hospital Devices,Manager Y. Sharma,+91-9940513298,orders@zenithhospitaldevices.com,"Plot 34, Industrial Estate, Hyderabad",4.9,ACTIVE
+SUP025,Apex Pharma Labs Division 2,Manager Z. Sharma,+91-9833643981,orders@apexpharmalabsdivision.com,"Plot 35, Industrial Estate, Ahmedabad",4.3,ACTIVE
+SUP026,Bharat Healthcare Bio Division 2,Manager A. Sharma,+91-9817501140,orders@bharathealthcarebiodivision.com,"Plot 36, Industrial Estate, Pune",4.6,ACTIVE
+SUP027,Cadila Therapeutics Division 2,Manager B. Sharma,+91-9955141917,orders@cadilatherapeuticsdivision.com,"Plot 37, Industrial Estate, Bengaluru",3.6,ACTIVE
+SUP028,Dr Reddy Lifesciences Division 2,Manager C. Sharma,+91-9937552525,orders@drreddylifesciencesdivision.com,"Plot 38, Industrial Estate, Bengaluru",3.9,ACTIVE
+SUP029,Emcure Formulations Division 2,Manager D. Sharma,+91-9930324452,orders@emcureformulationsdivision.com,"Plot 39, Industrial Estate, Chennai",3.9,ACTIVE
+SUP030,Fortis MedEquip Supplies Division 2,Manager E. Sharma,+91-9824557799,orders@fortismedequipsuppliesdivision.com,"Plot 40, Industrial Estate, Bengaluru",3.7,ACTIVE
+SUP031,Glenmark Generic Division 2,Manager F. Sharma,+91-9915111229,orders@glenmarkgenericdivision.com,"Plot 41, Industrial Estate, Kolkata",3.9,ACTIVE
+SUP032,Himalaya Healthtech Division 2,Manager G. Sharma,+91-9967042333,orders@himalayahealthtechdivision.com,"Plot 42, Industrial Estate, Chennai",3.9,ACTIVE
+SUP033,Intas Biologicals Division 2,Manager H. Sharma,+91-9876749410,orders@intasbiologicalsdivision.com,"Plot 43, Industrial Estate, Ahmedabad",4.5,ACTIVE
+SUP034,JB Chemicals Division 2,Manager I. Sharma,+91-9959446677,orders@jbchemicalsdivision.com,"Plot 44, Industrial Estate, Chennai",4.5,ACTIVE
+SUP035,Khandelwal BioMed Division 2,Manager J. Sharma,+91-9871136628,orders@khandelwalbiomeddivision.com,"Plot 45, Industrial Estate, Mumbai",4.2,ACTIVE
+SUP036,Lupin Care Division 2,Manager K. Sharma,+91-9858656721,orders@lupincaredivision.com,"Plot 46, Industrial Estate, Pune",3.6,ACTIVE
+SUP037,Mankind Generics Division 2,Manager L. Sharma,+91-9839046783,orders@mankindgenericsdivision.com,"Plot 47, Industrial Estate, Ahmedabad",4.5,ACTIVE
+SUP038,Natco Life Division 2,Manager M. Sharma,+91-9849901634,orders@natcolifedivision.com,"Plot 48, Industrial Estate, Ahmedabad",4.9,ACTIVE
+SUP039,Omega Surgical Devices Division 2,Manager N. Sharma,+91-9825945485,orders@omegasurgicaldevicesdivision.com,"Plot 49, Industrial Estate, Chennai",4.5,ACTIVE
+SUP040,Piramal Critical Care Division 2,Manager O. Sharma,+91-9854562350,orders@piramalcriticalcaredivision.com,"Plot 50, Industrial Estate, Pune",4.8,AUDIT_PENDING
+SUP041,Quest Diagnostic Solutions Division 2,Manager P. Sharma,+91-9885992746,orders@questdiagnosticsolutionsdivision.com,"Plot 51, Industrial Estate, Bengaluru",5.0,ACTIVE
+SUP042,Ranbaxy Healthcare Division 2,Manager Q. Sharma,+91-9965539030,orders@ranbaxyhealthcaredivision.com,"Plot 52, Industrial Estate, Bengaluru",4.7,ACTIVE
+SUP043,Sun Medical Systems Division 2,Manager R. Sharma,+91-9998766326,orders@sunmedicalsystemsdivision.com,"Plot 53, Industrial Estate, Kolkata",4.8,ACTIVE
+SUP044,Torrent Biologicals Division 2,Manager S. Sharma,+91-9802807010,orders@torrentbiologicalsdivision.com,"Plot 54, Industrial Estate, Kolkata",4.1,ACTIVE
+SUP045,Unichem Medical Division 2,Manager T. Sharma,+91-9913660932,orders@unichemmedicaldivision.com,"Plot 55, Industrial Estate, Chennai",4.0,ACTIVE

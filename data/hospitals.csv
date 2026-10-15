@@ -1,0 +1,81 @@
+hospital_id,hospital_name,facility_type,location,district,state,pincode,latitude,longitude,bed_capacity,priority,operating_status
+H001,City Hospital,General Hospital,Central District,Central Delhi,Delhi,110001,28.6139,77.2090,500,1,OPERATIONAL
+H002,General Hospital,Teaching Hospital,North District,North Delhi,Delhi,110054,28.6923,77.2112,750,1,OPERATIONAL
+H003,Community Hospital,Community Health Centre,East Suburb,East Delhi,Delhi,110092,28.6315,77.3001,150,2,OPERATIONAL
+H004,Max Relief Super Specialty Hospital,Super Specialty Hospital,Malviya Nagar,Jaipur,Rajasthan,302017,26.8315,75.8511,135,1,OPERATIONAL
+H005,Narayana Health Teaching Hospital,Teaching Hospital,Kothrud,Pune,Maharashtra,411038,18.4804,73.7992,376,3,OPERATIONAL
+H006,Civil Maternity & Child Hospital,Maternity & Child Hospital,South Extension,New Delhi,Delhi,110049,28.5744,77.1904,316,3,OPERATIONAL
+H007,Max Relief Super Specialty Hospital,Super Specialty Hospital,T Nagar,Chennai,Tamil Nadu,600017,13.0646,80.2108,594,1,OPERATIONAL
+H008,Civil District Hospital,District Hospital,Malviya Nagar,Jaipur,Rajasthan,302017,26.8450,75.8484,315,1,OPERATIONAL
+H009,District Memorial Community Health Centre,Community Health Centre,Malviya Nagar,Jaipur,Rajasthan,302017,26.8764,75.8481,41,2,OPERATIONAL
+H010,LifeCare Primary Health Centre,Primary Health Centre,South Extension,New Delhi,Delhi,110049,28.5988,77.2346,337,3,OPERATIONAL
+H011,LifeCare District Hospital,District Hospital,Banjara Hills,Hyderabad,Telangana,500034,17.4143,78.4448,193,1,OPERATIONAL
+H012,Shanti Memorial Maternity & Child Hospital,Maternity & Child Hospital,Kothrud,Pune,Maharashtra,411038,18.4989,73.7954,378,3,OPERATIONAL
+H013,Narayana Health District Hospital,District Hospital,Andheri West,Mumbai,Maharashtra,400058,19.0853,72.8707,166,1,OPERATIONAL
+H014,St Jude Community Health Centre,Community Health Centre,Banjara Hills,Hyderabad,Telangana,500034,17.4480,78.4091,354,2,OPERATIONAL
+H015,Fortis Trust Super Specialty Hospital,Super Specialty Hospital,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8219,81.0243,109,1,OPERATIONAL
+H016,Red Cross Teaching Hospital,Teaching Hospital,Banjara Hills,Hyderabad,Telangana,500034,17.3926,78.4056,119,3,OPERATIONAL
+H017,Sunrise Teaching Hospital,Teaching Hospital,South Extension,New Delhi,Delhi,110049,28.5515,77.1891,458,3,OPERATIONAL
+H018,Max Relief Teaching Hospital,Teaching Hospital,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8427,81.0158,212,3,OPERATIONAL
+H019,District Memorial Teaching Hospital,Teaching Hospital,Andheri West,Mumbai,Maharashtra,400058,19.1399,72.8521,499,3,OPERATIONAL
+H020,St Jude Trauma Emergency Center,Trauma Emergency Center,Banjara Hills,Hyderabad,Telangana,500034,17.4338,78.4111,142,1,OPERATIONAL
+H021,Max Relief Primary Health Centre,Primary Health Centre,Navrangpura,Ahmedabad,Gujarat,380009,23.0279,72.5873,82,3,OPERATIONAL
+H022,Metro Maternity & Child Hospital,Maternity & Child Hospital,Kothrud,Pune,Maharashtra,411038,18.4803,73.7989,138,3,OPERATIONAL
+H023,Narayana Health Community Health Centre,Community Health Centre,Navrangpura,Ahmedabad,Gujarat,380009,23.0266,72.5942,550,2,OPERATIONAL
+H024,Max Relief Trauma Emergency Center,Trauma Emergency Center,Navrangpura,Ahmedabad,Gujarat,380009,23.0116,72.5464,261,1,OPERATIONAL
+H025,Sunrise Primary Health Centre,Primary Health Centre,Navrangpura,Ahmedabad,Gujarat,380009,23.0034,72.5993,154,3,LIMITED
+H026,Red Cross Maternity & Child Hospital,Maternity & Child Hospital,South Extension,New Delhi,Delhi,110049,28.5554,77.2479,97,3,OPERATIONAL
+H027,Sunrise Primary Health Centre,Primary Health Centre,Banjara Hills,Hyderabad,Telangana,500034,17.4534,78.4360,250,3,OPERATIONAL
+H028,LifeCare Super Specialty Hospital,Super Specialty Hospital,Navrangpura,Ahmedabad,Gujarat,380009,23.0218,72.5517,429,1,OPERATIONAL
+H029,District Memorial Super Specialty Hospital,Super Specialty Hospital,Salt Lake Sector V,Kolkata,West Bengal,700091,22.5514,88.4432,173,1,OPERATIONAL
+H030,Sunrise Trauma Emergency Center,Trauma Emergency Center,South Extension,New Delhi,Delhi,110049,28.5557,77.2247,437,1,OPERATIONAL
+H031,Narayana Health District Hospital,District Hospital,T Nagar,Chennai,Tamil Nadu,600017,13.0347,80.2421,205,1,OPERATIONAL
+H032,Red Cross District Hospital,District Hospital,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8274,80.9656,493,1,OPERATIONAL
+H033,District Memorial District Hospital,District Hospital,T Nagar,Chennai,Tamil Nadu,600017,13.0356,80.2590,551,1,OPERATIONAL
+H034,Metro Trauma Emergency Center,Trauma Emergency Center,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8864,81.0284,361,1,OPERATIONAL
+H035,Civil Trauma Emergency Center,Trauma Emergency Center,Andheri West,Mumbai,Maharashtra,400058,19.1247,72.8972,632,1,OPERATIONAL
+H036,Red Cross Teaching Hospital,Teaching Hospital,Banjara Hills,Hyderabad,Telangana,500034,17.4320,78.4151,102,3,OPERATIONAL
+H037,Red Cross District Hospital,District Hospital,Malviya Nagar,Jaipur,Rajasthan,302017,26.8269,75.7876,509,1,OPERATIONAL
+H038,Metro Teaching Hospital,Teaching Hospital,Whitefield,Bengaluru,Karnataka,560066,12.9321,77.7847,177,3,OPERATIONAL
+H039,Shanti Memorial Super Specialty Hospital,Super Specialty Hospital,Malviya Nagar,Jaipur,Rajasthan,302017,26.8136,75.8317,506,1,OPERATIONAL
+H040,Red Cross Community Health Centre,Community Health Centre,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8471,81.0156,95,2,OPERATIONAL
+H041,Apollo Reach District Hospital,District Hospital,T Nagar,Chennai,Tamil Nadu,600017,13.0474,80.2197,491,1,OPERATIONAL
+H042,District Memorial Super Specialty Hospital,Super Specialty Hospital,Banjara Hills,Hyderabad,Telangana,500034,17.3900,78.4257,90,1,OPERATIONAL
+H043,Metro Trauma Emergency Center,Trauma Emergency Center,Navrangpura,Ahmedabad,Gujarat,380009,22.9974,72.5527,565,1,OPERATIONAL
+H044,Sunrise Community Health Centre,Community Health Centre,South Extension,New Delhi,Delhi,110049,28.5801,77.2258,297,2,OPERATIONAL
+H045,Shanti Memorial Trauma Emergency Center,Trauma Emergency Center,T Nagar,Chennai,Tamil Nadu,600017,13.0179,80.2484,508,1,OPERATIONAL
+H046,LifeCare Teaching Hospital,Teaching Hospital,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8358,81.0212,592,3,OPERATIONAL
+H047,Civil Super Specialty Hospital,Super Specialty Hospital,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8264,81.0297,637,1,OPERATIONAL
+H048,Metro Primary Health Centre,Primary Health Centre,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8266,80.9778,139,3,OPERATIONAL
+H049,Metro Community Health Centre,Community Health Centre,Andheri West,Mumbai,Maharashtra,400058,19.0982,72.8637,108,2,OPERATIONAL
+H050,St Jude Trauma Emergency Center,Trauma Emergency Center,Whitefield,Bengaluru,Karnataka,560066,12.9465,77.7668,230,1,LIMITED
+H051,Metro Maternity & Child Hospital,Maternity & Child Hospital,Kothrud,Pune,Maharashtra,411038,18.4783,73.7934,359,3,OPERATIONAL
+H052,Sunrise Super Specialty Hospital,Super Specialty Hospital,Navrangpura,Ahmedabad,Gujarat,380009,23.0707,72.5795,447,1,OPERATIONAL
+H053,Shanti Memorial Maternity & Child Hospital,Maternity & Child Hospital,Andheri West,Mumbai,Maharashtra,400058,19.1507,72.8675,313,3,OPERATIONAL
+H054,Apex Primary Health Centre,Primary Health Centre,T Nagar,Chennai,Tamil Nadu,600017,13.0521,80.2002,457,3,OPERATIONAL
+H055,Apex Maternity & Child Hospital,Maternity & Child Hospital,T Nagar,Chennai,Tamil Nadu,600017,13.0391,80.2491,638,3,OPERATIONAL
+H056,LifeCare District Hospital,District Hospital,Malviya Nagar,Jaipur,Rajasthan,302017,26.8827,75.8408,225,1,OPERATIONAL
+H057,Max Relief Community Health Centre,Community Health Centre,Whitefield,Bengaluru,Karnataka,560066,12.9687,77.7407,428,2,OPERATIONAL
+H058,Apollo Reach Maternity & Child Hospital,Maternity & Child Hospital,Andheri West,Mumbai,Maharashtra,400058,19.1325,72.8792,196,3,OPERATIONAL
+H059,St Jude Super Specialty Hospital,Super Specialty Hospital,Whitefield,Bengaluru,Karnataka,560066,12.9752,77.7498,383,1,OPERATIONAL
+H060,Civil Community Health Centre,Community Health Centre,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8702,80.9761,358,2,OPERATIONAL
+H061,Narayana Health Community Health Centre,Community Health Centre,Kothrud,Pune,Maharashtra,411038,18.4923,73.7902,539,2,OPERATIONAL
+H062,Civil Primary Health Centre,Primary Health Centre,Salt Lake Sector V,Kolkata,West Bengal,700091,22.5402,88.4465,60,3,OPERATIONAL
+H063,Red Cross Primary Health Centre,Primary Health Centre,Malviya Nagar,Jaipur,Rajasthan,302017,26.8769,75.8535,638,3,OPERATIONAL
+H064,Metro Teaching Hospital,Teaching Hospital,Kothrud,Pune,Maharashtra,411038,18.5075,73.7743,362,3,OPERATIONAL
+H065,Sunrise Primary Health Centre,Primary Health Centre,Banjara Hills,Hyderabad,Telangana,500034,17.4453,78.4085,466,3,OPERATIONAL
+H066,Apex Super Specialty Hospital,Super Specialty Hospital,Whitefield,Bengaluru,Karnataka,560066,12.9540,77.7555,628,1,OPERATIONAL
+H067,Fortis Trust Trauma Emergency Center,Trauma Emergency Center,Andheri West,Mumbai,Maharashtra,400058,19.0950,72.8667,446,1,OPERATIONAL
+H068,Narayana Health District Hospital,District Hospital,South Extension,New Delhi,Delhi,110049,28.6076,77.2020,616,1,OPERATIONAL
+H069,Narayana Health Teaching Hospital,Teaching Hospital,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8884,80.9724,197,3,OPERATIONAL
+H070,Narayana Health Community Health Centre,Community Health Centre,Whitefield,Bengaluru,Karnataka,560066,12.9797,77.7567,73,2,OPERATIONAL
+H071,Max Relief Teaching Hospital,Teaching Hospital,Whitefield,Bengaluru,Karnataka,560066,12.9916,77.7791,243,3,OPERATIONAL
+H072,Shanti Memorial Teaching Hospital,Teaching Hospital,Andheri West,Mumbai,Maharashtra,400058,19.1504,72.8683,316,3,OPERATIONAL
+H073,St Jude Teaching Hospital,Teaching Hospital,Malviya Nagar,Jaipur,Rajasthan,302017,26.8277,75.7877,598,3,OPERATIONAL
+H074,Apollo Reach Maternity & Child Hospital,Maternity & Child Hospital,Navrangpura,Ahmedabad,Gujarat,380009,23.0693,72.5287,638,3,OPERATIONAL
+H075,Apollo Reach Community Health Centre,Community Health Centre,Kothrud,Pune,Maharashtra,411038,18.5281,73.8159,146,2,LIMITED
+H076,Civil Super Specialty Hospital,Super Specialty Hospital,Gomti Nagar,Lucknow,Uttar Pradesh,226010,26.8784,80.9615,283,1,OPERATIONAL
+H077,District Memorial Maternity & Child Hospital,Maternity & Child Hospital,South Extension,New Delhi,Delhi,110049,28.5971,77.1913,596,3,OPERATIONAL
+H078,Shanti Memorial Maternity & Child Hospital,Maternity & Child Hospital,South Extension,New Delhi,Delhi,110049,28.5728,77.2012,88,3,OPERATIONAL
+H079,District Memorial District Hospital,District Hospital,Kothrud,Pune,Maharashtra,411038,18.5042,73.8161,79,1,OPERATIONAL
+H080,Fortis Trust Community Health Centre,Community Health Centre,T Nagar,Chennai,Tamil Nadu,600017,13.0094,80.2631,145,2,OPERATIONAL

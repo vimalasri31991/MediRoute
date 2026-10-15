@@ -1,0 +1,26 @@
+warehouse_id,warehouse_name,warehouse_type,location,district,state,latitude,longitude,storage_capacity,cold_chain_capable,operating_status
+W001,Central Medical Depot,Central Warehouse,Industrial Corridor East,Central Delhi,Delhi,28.6300,77.2400,120000,true,OPERATIONAL
+W002,Regional Logistics Hub,Regional Distribution Centre,Northern Expressway Km12,North Delhi,Delhi,28.7200,77.1800,85000,true,OPERATIONAL
+W003,Cold Chain Storage,Cold-Chain Facility,Harbor Road Industrial Area,West Delhi,Delhi,28.6000,77.1000,50000,true,OPERATIONAL
+W004,Apex Regional Depot 4,Regional Depot,Shamshabad Cargo Terminal,Hyderabad,Telangana,17.2194,78.4202,78102,false,OPERATIONAL
+W005,Apex District Supply Point 5,District Supply Point,Dankuni Freight Complex,Hooghly,West Bengal,22.6786,88.2998,87527,false,OPERATIONAL
+W006,Apex District Supply Point 6,District Supply Point,Transport Nagar,Lucknow,Uttar Pradesh,26.7680,80.8705,93986,true,OPERATIONAL
+W007,Apex Emergency Buffer Depot 7,Emergency Buffer Depot,Dankuni Freight Complex,Hooghly,West Bengal,22.6896,88.2723,95921,false,OPERATIONAL
+W008,Apex District Supply Point 8,District Supply Point,Transport Nagar,Lucknow,Uttar Pradesh,26.8041,80.8839,66119,false,OPERATIONAL
+W009,Apex Emergency Buffer Depot 9,Emergency Buffer Depot,Sanand Industrial Estate,Ahmedabad,Gujarat,22.9694,72.3856,48857,true,OPERATIONAL
+W010,Apex Transit Pharmacy 10,Transit Pharmacy,Dankuni Freight Complex,Hooghly,West Bengal,22.6717,88.2824,97220,false,OPERATIONAL
+W011,Apex Emergency Buffer Depot 11,Emergency Buffer Depot,Transport Nagar,Lucknow,Uttar Pradesh,26.7717,80.8941,38729,false,OPERATIONAL
+W012,Apex Emergency Buffer Depot 12,Emergency Buffer Depot,Transport Nagar,Lucknow,Uttar Pradesh,26.7617,80.8911,37548,true,OPERATIONAL
+W013,Apex Transit Pharmacy 13,Transit Pharmacy,Bhiwandi Logistics Park,Thane,Maharashtra,19.2738,73.0409,34128,false,OPERATIONAL
+W014,Apex Emergency Buffer Depot 14,Emergency Buffer Depot,Shamshabad Cargo Terminal,Hyderabad,Telangana,17.2585,78.4153,85879,false,OPERATIONAL
+W015,Apex Regional Depot 15,Regional Depot,Shamshabad Cargo Terminal,Hyderabad,Telangana,17.2221,78.4187,68791,true,OPERATIONAL
+W016,Apex Cold Storage Hub 16,Cold Storage Hub,Chakan Auto & Logistics Zone,Pune,Maharashtra,18.7394,73.8454,34899,true,OPERATIONAL
+W017,Apex Cold Storage Hub 17,Cold Storage Hub,Dankuni Freight Complex,Hooghly,West Bengal,22.6685,88.2833,62638,true,OPERATIONAL
+W018,Apex Emergency Buffer Depot 18,Emergency Buffer Depot,Sanand Industrial Estate,Ahmedabad,Gujarat,22.9715,72.3749,71286,true,OPERATIONAL
+W019,Apex Regional Depot 19,Regional Depot,Sriperumbudur Hub,Kanchipuram,Tamil Nadu,12.9927,79.9309,41821,false,OPERATIONAL
+W020,Apex Transit Pharmacy 20,Transit Pharmacy,Sanand Industrial Estate,Ahmedabad,Gujarat,22.9970,72.3792,105469,false,OPERATIONAL
+W021,Apex Regional Depot 21,Regional Depot,Shamshabad Cargo Terminal,Hyderabad,Telangana,17.2585,78.4271,67232,true,OPERATIONAL
+W022,Apex Regional Depot 22,Regional Depot,Sitapura Industrial Area,Jaipur,Rajasthan,26.7840,75.8270,54499,false,OPERATIONAL
+W023,Apex Cold Storage Hub 23,Cold Storage Hub,Sriperumbudur Hub,Kanchipuram,Tamil Nadu,12.9574,79.9362,110894,true,OPERATIONAL
+W024,Apex Emergency Buffer Depot 24,Emergency Buffer Depot,Bhiwandi Logistics Park,Thane,Maharashtra,19.2805,73.0398,98407,true,OPERATIONAL
+W025,Apex District Supply Point 25,District Supply Point,Okhla Industrial Area,South Delhi,Delhi,28.5365,77.2780,103733,false,OPERATIONAL

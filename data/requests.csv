@@ -1,0 +1,233 @@
+request_id,hospital_id,medicine_id,quantity_requested,urgency,request_description,request_date,status
+REQ1001,H001,M002,100,CRITICAL,Emergency insulin supply required urgently for critical diabetic ICU patients.,2026-10-14,FULFILLED
+REQ1002,H018,M225,80,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-05-09,FULFILLED
+REQ1003,H047,M223,14,NORMAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-05-06,FULFILLED
+REQ1004,H014,M172,142,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-06-05,CANCELLED
+REQ1005,H068,M261,131,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-05-25,PENDING
+REQ1006,H069,M038,82,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-08-05,FULFILLED
+REQ1007,H053,M282,17,NORMAL,Intensive care critical respiratory and ventilator support supplies.,2026-05-14,ALLOCATED
+REQ1008,H070,M033,27,NORMAL,Pediatric ward high-priority antibiotic medication requirement.,2026-04-29,PARTIALLY_ALLOCATED
+REQ1009,H062,M273,137,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-08-26,CANCELLED
+REQ1010,H015,M303,99,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-07-22,FULFILLED
+REQ1011,H047,M275,41,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-08-17,FULFILLED
+REQ1012,H002,M027,69,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-07-26,FULFILLED
+REQ1013,H075,M008,86,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-10-07,CANCELLED
+REQ1014,H059,M061,53,URGENT,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-12,CANCELLED
+REQ1015,H021,M189,30,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-06-05,PENDING
+REQ1016,H018,M302,126,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-08-15,PARTIALLY_ALLOCATED
+REQ1017,H079,M232,18,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-05-12,FULFILLED
+REQ1018,H012,M035,147,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-07-05,CANCELLED
+REQ1019,H024,M143,154,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-17,FULFILLED
+REQ1020,H065,M158,122,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-08-02,PENDING
+REQ1021,H072,M080,52,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-06-30,FULFILLED
+REQ1022,H033,M008,24,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-07-20,PARTIALLY_ALLOCATED
+REQ1023,H001,M258,88,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-08-03,ALLOCATED
+REQ1024,H080,M098,71,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-07-03,CANCELLED
+REQ1025,H061,M064,82,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-06-25,PENDING
+REQ1026,H050,M098,140,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-07-28,FULFILLED
+REQ1027,H023,M142,131,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-05-25,FULFILLED
+REQ1028,H061,M227,55,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-10-14,FULFILLED
+REQ1029,H048,M284,39,NORMAL,Pediatric ward high-priority antibiotic medication requirement.,2026-07-19,FULFILLED
+REQ1030,H067,M124,133,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-04-20,PENDING
+REQ1031,H024,M305,140,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-04-30,CANCELLED
+REQ1032,H065,M250,155,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-07-30,FULFILLED
+REQ1033,H014,M106,35,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-10-05,FULFILLED
+REQ1034,H047,M050,33,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-06-11,FULFILLED
+REQ1035,H061,M232,137,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-06-09,PARTIALLY_ALLOCATED
+REQ1036,H028,M118,89,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-05-24,FULFILLED
+REQ1037,H012,M080,136,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-09-19,PENDING
+REQ1038,H077,M112,104,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-06-03,PARTIALLY_ALLOCATED
+REQ1039,H057,M308,119,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-05-07,FULFILLED
+REQ1040,H042,M276,156,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-07-03,FULFILLED
+REQ1041,H026,M024,37,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-07-31,PENDING
+REQ1042,H013,M248,32,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-05-09,FULFILLED
+REQ1043,H057,M279,114,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-08-25,ALLOCATED
+REQ1044,H064,M134,74,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-04-27,CANCELLED
+REQ1045,H051,M172,74,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-07-18,FULFILLED
+REQ1046,H058,M217,117,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-08-19,FULFILLED
+REQ1047,H068,M085,64,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-06-09,FULFILLED
+REQ1048,H078,M174,109,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-09-03,PENDING
+REQ1049,H041,M155,33,NORMAL,Pediatric ward high-priority antibiotic medication requirement.,2026-06-18,ALLOCATED
+REQ1050,H040,M121,106,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-08-31,ALLOCATED
+REQ1051,H011,M245,112,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-07-03,PENDING
+REQ1052,H061,M096,86,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-12,CANCELLED
+REQ1053,H028,M082,119,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-09-26,ALLOCATED
+REQ1054,H022,M269,138,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-08-04,PARTIALLY_ALLOCATED
+REQ1055,H073,M318,137,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-01,ALLOCATED
+REQ1056,H017,M164,68,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-08-20,CANCELLED
+REQ1057,H019,M100,39,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-06-08,FULFILLED
+REQ1058,H044,M156,72,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-09-12,CANCELLED
+REQ1059,H034,M123,159,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-05-23,ALLOCATED
+REQ1060,H022,M177,128,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-07-13,ALLOCATED
+REQ1061,H063,M068,89,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-05-15,CANCELLED
+REQ1062,H028,M192,155,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-09-11,FULFILLED
+REQ1063,H070,M311,50,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-07-31,FULFILLED
+REQ1064,H053,M180,45,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-06-02,PENDING
+REQ1065,H030,M198,35,NORMAL,Pediatric ward high-priority antibiotic medication requirement.,2026-09-02,PARTIALLY_ALLOCATED
+REQ1066,H067,M165,64,URGENT,Dialysis unit essential saline and electrolyte fluid delivery.,2026-06-24,ALLOCATED
+REQ1067,H013,M066,100,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-04-24,ALLOCATED
+REQ1068,H031,M008,101,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-05-30,CANCELLED
+REQ1069,H020,M098,59,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-05-29,ALLOCATED
+REQ1070,H071,M072,24,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-04-29,ALLOCATED
+REQ1071,H027,M235,147,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-05-16,CANCELLED
+REQ1072,H031,M316,123,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-08-18,PENDING
+REQ1073,H066,M049,155,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-07-08,PARTIALLY_ALLOCATED
+REQ1074,H074,M058,98,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-10-01,PARTIALLY_ALLOCATED
+REQ1075,H061,M068,146,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-08-13,PENDING
+REQ1076,H043,M081,27,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-05-04,ALLOCATED
+REQ1077,H066,M303,75,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-07-09,ALLOCATED
+REQ1078,H004,M156,95,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-09-18,CANCELLED
+REQ1079,H057,M162,67,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-05-04,CANCELLED
+REQ1080,H066,M313,125,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-06-04,CANCELLED
+REQ1081,H007,M056,126,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-05-26,PARTIALLY_ALLOCATED
+REQ1082,H075,M225,159,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-07-30,FULFILLED
+REQ1083,H048,M155,57,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-08-29,CANCELLED
+REQ1084,H078,M154,25,NORMAL,Intensive care critical respiratory and ventilator support supplies.,2026-06-22,FULFILLED
+REQ1085,H048,M204,51,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-06-01,FULFILLED
+REQ1086,H014,M272,68,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-07-25,PARTIALLY_ALLOCATED
+REQ1087,H061,M263,159,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-06-02,FULFILLED
+REQ1088,H018,M073,135,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-09-06,PENDING
+REQ1089,H052,M204,148,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-05-09,FULFILLED
+REQ1090,H051,M063,130,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-05-12,FULFILLED
+REQ1091,H038,M192,45,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-07-29,PARTIALLY_ALLOCATED
+REQ1092,H059,M080,81,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-06-19,ALLOCATED
+REQ1093,H022,M186,114,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-10-11,PARTIALLY_ALLOCATED
+REQ1094,H015,M217,108,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-07-09,ALLOCATED
+REQ1095,H041,M291,20,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-10-03,FULFILLED
+REQ1096,H002,M170,148,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-17,FULFILLED
+REQ1097,H065,M125,41,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-10-02,ALLOCATED
+REQ1098,H029,M218,17,NORMAL,Urgent trauma emergency resuscitation replenishment.,2026-08-14,PENDING
+REQ1099,H079,M141,66,URGENT,Dialysis unit essential saline and electrolyte fluid delivery.,2026-08-25,PARTIALLY_ALLOCATED
+REQ1100,H038,M194,74,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-08-29,ALLOCATED
+REQ1101,H028,M091,95,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-09-04,PARTIALLY_ALLOCATED
+REQ1102,H069,M142,43,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-05-18,PENDING
+REQ1103,H043,M031,128,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-10-04,PARTIALLY_ALLOCATED
+REQ1104,H021,M248,156,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-05-14,ALLOCATED
+REQ1105,H069,M254,108,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-09-12,PARTIALLY_ALLOCATED
+REQ1106,H069,M215,89,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-08-15,CANCELLED
+REQ1107,H026,M059,122,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-06-27,FULFILLED
+REQ1108,H051,M156,63,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-05-21,ALLOCATED
+REQ1109,H072,M241,76,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-09-03,PARTIALLY_ALLOCATED
+REQ1110,H025,M228,66,URGENT,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-28,ALLOCATED
+REQ1111,H051,M004,140,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-06-05,FULFILLED
+REQ1112,H031,M113,33,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-08-09,ALLOCATED
+REQ1113,H040,M033,62,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-04-18,FULFILLED
+REQ1114,H069,M187,27,NORMAL,Intensive care critical respiratory and ventilator support supplies.,2026-08-14,PARTIALLY_ALLOCATED
+REQ1115,H070,M291,56,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-05-17,PARTIALLY_ALLOCATED
+REQ1116,H052,M172,80,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-05-05,FULFILLED
+REQ1117,H019,M157,59,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-05-21,PENDING
+REQ1118,H008,M305,39,NORMAL,Intensive care critical respiratory and ventilator support supplies.,2026-07-27,FULFILLED
+REQ1119,H064,M190,129,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-06-12,FULFILLED
+REQ1120,H068,M307,49,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-06-21,FULFILLED
+REQ1121,H050,M086,45,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-04-27,FULFILLED
+REQ1122,H026,M237,91,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-05-12,PENDING
+REQ1123,H052,M191,100,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-04-27,PENDING
+REQ1124,H045,M095,91,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-08-19,PENDING
+REQ1125,H053,M032,26,NORMAL,Urgent trauma emergency resuscitation replenishment.,2026-08-04,ALLOCATED
+REQ1126,H013,M105,43,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-06-23,PENDING
+REQ1127,H018,M275,151,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-07-24,FULFILLED
+REQ1128,H039,M059,83,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-06-14,FULFILLED
+REQ1129,H072,M111,27,NORMAL,Intensive care critical respiratory and ventilator support supplies.,2026-07-21,PENDING
+REQ1130,H015,M241,50,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-07-05,ALLOCATED
+REQ1131,H002,M297,97,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-07-26,FULFILLED
+REQ1132,H018,M068,73,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-07-29,CANCELLED
+REQ1133,H019,M028,149,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-06-13,CANCELLED
+REQ1134,H068,M035,76,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-07-25,CANCELLED
+REQ1135,H040,M176,44,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-07-18,FULFILLED
+REQ1136,H075,M104,78,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-05-11,ALLOCATED
+REQ1137,H005,M158,97,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-08-01,FULFILLED
+REQ1138,H031,M046,53,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-05-03,FULFILLED
+REQ1139,H080,M218,98,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-06-16,CANCELLED
+REQ1140,H055,M263,27,NORMAL,Urgent trauma emergency resuscitation replenishment.,2026-08-11,CANCELLED
+REQ1141,H039,M210,54,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-06-22,FULFILLED
+REQ1142,H024,M019,41,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-06-09,PARTIALLY_ALLOCATED
+REQ1143,H050,M220,97,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-05-25,CANCELLED
+REQ1144,H020,M117,95,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-07-04,FULFILLED
+REQ1145,H029,M053,20,NORMAL,Urgent trauma emergency resuscitation replenishment.,2026-09-02,CANCELLED
+REQ1146,H054,M104,12,NORMAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-07-24,CANCELLED
+REQ1147,H046,M171,66,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-05-19,ALLOCATED
+REQ1148,H078,M118,24,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-05-03,CANCELLED
+REQ1149,H071,M101,14,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-04-26,FULFILLED
+REQ1150,H069,M144,46,URGENT,Dialysis unit essential saline and electrolyte fluid delivery.,2026-06-10,FULFILLED
+REQ1151,H064,M001,66,URGENT,Dialysis unit essential saline and electrolyte fluid delivery.,2026-06-14,PENDING
+REQ1152,H038,M193,144,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-07-10,PENDING
+REQ1153,H026,M164,127,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-05-23,FULFILLED
+REQ1154,H047,M197,34,NORMAL,Pediatric ward high-priority antibiotic medication requirement.,2026-09-25,FULFILLED
+REQ1155,H027,M087,123,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-08-20,PENDING
+REQ1156,H011,M255,102,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-07-01,FULFILLED
+REQ1157,H043,M149,154,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-07-05,FULFILLED
+REQ1158,H006,M015,60,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-08-25,FULFILLED
+REQ1159,H080,M105,110,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-07-17,FULFILLED
+REQ1160,H004,M009,97,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-09-16,CANCELLED
+REQ1161,H067,M189,53,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-09-01,CANCELLED
+REQ1162,H038,M139,34,NORMAL,Urgent trauma emergency resuscitation replenishment.,2026-09-09,PARTIALLY_ALLOCATED
+REQ1163,H071,M310,112,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-09-08,CANCELLED
+REQ1164,H019,M302,107,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-10-11,PARTIALLY_ALLOCATED
+REQ1165,H042,M003,67,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-10-01,FULFILLED
+REQ1166,H007,M165,99,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-07-12,FULFILLED
+REQ1167,H067,M190,50,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-06-06,CANCELLED
+REQ1168,H034,M044,114,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-07-04,CANCELLED
+REQ1169,H015,M178,153,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-05-28,PENDING
+REQ1170,H071,M158,94,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-09-15,PENDING
+REQ1171,H001,M066,35,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-08-20,ALLOCATED
+REQ1172,H071,M050,155,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-09-16,ALLOCATED
+REQ1173,H028,M115,30,NORMAL,Routine monthly replenishment for in-patient pharmacy.,2026-07-05,FULFILLED
+REQ1174,H002,M008,116,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-07-11,CANCELLED
+REQ1175,H008,M200,120,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-27,PENDING
+REQ1176,H051,M101,92,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-05-01,PARTIALLY_ALLOCATED
+REQ1177,H022,M212,118,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-10-07,PARTIALLY_ALLOCATED
+REQ1178,H077,M070,59,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-08-03,CANCELLED
+REQ1179,H056,M085,26,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-09-01,PARTIALLY_ALLOCATED
+REQ1180,H029,M088,51,URGENT,Pediatric ward high-priority antibiotic medication requirement.,2026-09-07,FULFILLED
+REQ1181,H025,M004,95,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-06-07,FULFILLED
+REQ1182,H037,M078,100,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-08-21,ALLOCATED
+REQ1183,H013,M242,91,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-10-06,ALLOCATED
+REQ1184,H026,M275,108,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-30,FULFILLED
+REQ1185,H063,M212,85,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-04-30,PARTIALLY_ALLOCATED
+REQ1186,H067,M103,67,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-05-15,PARTIALLY_ALLOCATED
+REQ1187,H077,M232,15,NORMAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-08-23,FULFILLED
+REQ1188,H006,M014,42,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-06-03,FULFILLED
+REQ1189,H024,M120,98,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-04-28,PENDING
+REQ1190,H041,M171,42,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-08-07,FULFILLED
+REQ1191,H020,M132,130,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-10-14,CANCELLED
+REQ1192,H027,M243,17,NORMAL,Urgent trauma emergency resuscitation replenishment.,2026-04-25,ALLOCATED
+REQ1193,H066,M197,31,NORMAL,Pediatric ward high-priority antibiotic medication requirement.,2026-09-14,ALLOCATED
+REQ1194,H069,M262,89,CRITICAL,Pediatric ward high-priority antibiotic medication requirement.,2026-07-13,CANCELLED
+REQ1195,H062,M021,95,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-08-26,ALLOCATED
+REQ1196,H024,M225,60,URGENT,Urgent trauma emergency resuscitation replenishment.,2026-09-12,CANCELLED
+REQ1197,H017,M178,72,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-06-16,FULFILLED
+REQ1198,H043,M246,105,CRITICAL,Urgent trauma emergency resuscitation replenishment.,2026-08-15,ALLOCATED
+REQ1199,H027,M297,70,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-05-07,FULFILLED
+REQ1200,H025,M292,45,URGENT,Routine monthly replenishment for in-patient pharmacy.,2026-08-01,FULFILLED
+REQ1201,H069,M152,148,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-06-07,FULFILLED
+REQ1202,H014,M202,78,URGENT,Dialysis unit essential saline and electrolyte fluid delivery.,2026-07-28,CANCELLED
+REQ1203,H059,M148,120,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-09-11,CANCELLED
+REQ1204,H069,M062,73,URGENT,Infection control buffer stock replenishment for surgical wings.,2026-08-07,ALLOCATED
+REQ1205,H074,M306,67,URGENT,Dialysis unit essential saline and electrolyte fluid delivery.,2026-04-28,PENDING
+REQ1206,H007,M099,90,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-08-12,PENDING
+REQ1207,H034,M170,93,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-06-13,FULFILLED
+REQ1208,H057,M225,11,NORMAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-05-04,PARTIALLY_ALLOCATED
+REQ1209,H018,M030,37,NORMAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-04-28,CANCELLED
+REQ1210,H010,M055,139,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-05-25,FULFILLED
+REQ1211,H035,M064,141,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-07-09,CANCELLED
+REQ1212,H016,M115,138,CRITICAL,Routine monthly replenishment for in-patient pharmacy.,2026-10-05,FULFILLED
+REQ1213,H012,M026,19,NORMAL,Pediatric ward high-priority antibiotic medication requirement.,2026-07-01,PENDING
+REQ1214,H007,M009,33,NORMAL,Infection control buffer stock replenishment for surgical wings.,2026-06-14,CANCELLED
+REQ1215,H073,M304,87,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-08-14,FULFILLED
+REQ1216,H029,M009,67,URGENT,Intensive care critical respiratory and ventilator support supplies.,2026-09-04,ALLOCATED
+REQ1217,H015,M264,144,CRITICAL,Intensive care critical respiratory and ventilator support supplies.,2026-04-21,FULFILLED
+REQ1218,H037,M115,113,CRITICAL,Infection control buffer stock replenishment for surgical wings.,2026-04-23,PENDING
+REQ1219,H055,M018,26,NORMAL,Pediatric ward high-priority antibiotic medication requirement.,2026-09-08,PENDING
+REQ1220,H046,M109,153,CRITICAL,Dialysis unit essential saline and electrolyte fluid delivery.,2026-10-10,PENDING
+REQ-1001,H001,MED004,25,NORMAL,ICU emergency,2026-10-14,PENDING
+REQ-1001,H001,M004,25,CRITICAL,ICU emergency,2026-10-14,FULFILLED
+REQ-1002,H001,M005,99999,NORMAL,Excessive bulk order,2026-10-14,PENDING
+REQ-1001,H001,M002,100,CRITICAL,Emergency insulin supply required urgently.,2026-10-14,PENDING
+REQ-1001,H001,M004,25,CRITICAL,ICU emergency,2026-10-14,FULFILLED
+REQ-1002,H001,M005,99999,NORMAL,Excessive bulk order,2026-10-14,PENDING
+REQ-1001,H001,M004,25,CRITICAL,ICU emergency,2026-10-14,FULFILLED
+REQ-1002,H001,M005,99999,NORMAL,Excessive bulk order,2026-10-14,PENDING
+REQ-1001,H001,M004,25,CRITICAL,ICU emergency,2026-10-14,FULFILLED
+REQ-1002,H001,M005,99999,NORMAL,Excessive bulk order,2026-10-14,PENDING
+REQ-1001,H001,M004,25,CRITICAL,ICU emergency,2026-10-15,PARTIALLY_ALLOCATED
+REQ-1002,H001,M005,99999,NORMAL,Excessive bulk order,2026-10-15,PENDING

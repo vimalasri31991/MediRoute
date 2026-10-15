@@ -1,0 +1,24 @@
+# Bytecode & build outputs
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and Editor files
+.settings/
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Keep Eclipse project descriptors
+!.project
+!.classpath
+
+# Keep presentation and documentation
+!MediRoute_10_Slide_Presentation.pptx
+!MediRoute_10_Slide_Presentation.pdf
